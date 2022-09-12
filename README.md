@@ -1,5 +1,5 @@
 # :bow_and_arrow: Hunt the Wumpus Game
-!(https://img.shields.io/github/directory-file-count/hannahsoria/Hunt-the-Wumpus?color=blueviolet&style=plastic)
+[![badge file counter](https://img.shields.io/github/directory-file-count/hannahsoria/Hunt-the-Wumpus?color=blueviolet&style=plastic)]
 
 This is the game Hunt the Wumpus! The goal of this game is to
 find and kill the hidden wumpus before he kills you first. 
